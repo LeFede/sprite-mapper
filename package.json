@@ -1,0 +1,14 @@
+{
+  "name": "jimp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hsl-rgb": "^1.0.0",
+    "jimp": "^0.16.2"
+  },
+  "scripts": {
+    "source": "node src/index",
+    "colortable": "node src/index"
+  }
+}
